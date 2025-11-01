@@ -1,0 +1,10 @@
+2025-11-01 12:25:05,805 INFO com.demoqa.tests.scripts.ElementsCardTest [main] Total menu items found: 9
+2025-11-01 12:25:05,872 INFO com.demoqa.tests.scripts.ElementsCardTest [main] → Menu item: 'Text Box'
+2025-11-01 12:25:05,887 INFO com.demoqa.tests.scripts.ElementsCardTest [main] → Menu item: 'Check Box'
+2025-11-01 12:25:05,903 INFO com.demoqa.tests.scripts.ElementsCardTest [main] → Menu item: 'Radio Button'
+2025-11-01 12:25:05,915 INFO com.demoqa.tests.scripts.ElementsCardTest [main] → Menu item: 'Web Tables'
+2025-11-01 12:25:05,935 INFO com.demoqa.tests.scripts.ElementsCardTest [main] → Menu item: 'Buttons'
+2025-11-01 12:25:05,953 INFO com.demoqa.tests.scripts.ElementsCardTest [main] → Menu item: 'Links'
+2025-11-01 12:25:05,969 INFO com.demoqa.tests.scripts.ElementsCardTest [main] → Menu item: 'Broken Links - Images'
+2025-11-01 12:25:05,987 INFO com.demoqa.tests.scripts.ElementsCardTest [main] → Menu item: 'Upload and Download'
+2025-11-01 12:25:06,012 INFO com.demoqa.tests.scripts.ElementsCardTest [main] → Menu item: 'Dynamic Properties'
